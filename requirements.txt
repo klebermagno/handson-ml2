@@ -11,7 +11,14 @@ scipy==1.3.1
 
 
 ##### Machine Learning packages
+<<<<<<< Updated upstream
 scikit-learn==0.22
+=======
+scikit-learn==0.20.3
+
+# Optional: the XGBoost library is only used in the ensemble learning chapter.
+#xgboost==0.82
+>>>>>>> Stashed changes
 
 # Optional: the XGBoost library is only used in chapter 7
 xgboost==0.90
